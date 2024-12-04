@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Tobia\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Tobia\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_LightOfDaedalus.-1347387615.00" t="ExcludeRecursive" />
+    <e p="E:\Dokumente\Studium_Informatik_Games_Engineering\SS_22\Games_Lab\Repo\lightofdaedalus\lightofdaedalus" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Features" t="Include">
+          <e p="XRRig" t="Include">
+            <e p="Script" t="Include">
+              <e p="ActionBasedControllerManager.cs" t="Include" />
+              <e p="LocomotionSchemeManager.cs" t="Include" />
+              <e p="SimpleCameraController.cs" t="Include" />
+            </e>
+            <e p="VRGazeInteraction" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="VRGazeInteractionInit.cs" t="Include" />
+                </e>
+                <e p="GazeEvents.cs" t="Include" />
+                <e p="GazeManager.cs" t="Include" />
+              </e>
+            </e>
+            <e p="VRHands" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CloseToUICollision.cs" t="Include" />
+                <e p="Finger.cs" t="Include" />
+                <e p="HandAnimator.cs" t="Include" />
+                <e p="HandVisibilityToggle.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ImenTestStuff" t="Include">
+          <e p="LTwoGoalHitBehavior.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Shader" t="Include">
+            <e p="GroundCrack" t="Include">
+              <e p="DisableZWriteShader.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AmbientAudioPlayer.cs" t="Include" />
+          <e p="Breakables" t="Include">
+            <e p="Breakable.cs" t="Include" />
+          </e>
+          <e p="ColorScripts" t="Include">
+            <e p="ColorAdditionIO.cs" t="Include" />
+            <e p="ColorData.cs" t="Include" />
+            <e p="ColorPalette.cs" t="Include" />
+            <e p="ColorSetMirrorFrame.cs" t="Include" />
+          </e>
+          <e p="CommonScripts" t="Include">
+            <e p="PlayerData.cs" t="Include" />
+            <e p="PlayerDataManager.cs" t="Include" />
+            <e p="SceneTransitions.cs" t="Include" />
+          </e>
+          <e p="Interactables" t="Include">
+            <e p="HandButton.cs" t="Include" />
+            <e p="HandKnob.cs" t="Include" />
+          </e>
+          <e p="IRayInteractable.cs" t="Include" />
+          <e p="LevelTarget.cs" t="Include" />
+          <e p="LightDevice.cs" t="Include" />
+          <e p="MainMenu" t="Include">
+            <e p="MainMenuScenManager.cs" t="Include" />
+          </e>
+          <e p="MirrorCamera.cs" t="Include" />
+          <e p="ReflectiveRay.cs" t="Include" />
+          <e p="ReflectorScripts" t="Include">
+            <e p="ReflectorColorBehaviorIO.cs" t="Include" />
+            <e p="ReflectorSelfColorSet.cs" t="Include" />
+            <e p="ReflectorSelfRotationSet.cs" t="Include" />
+          </e>
+          <e p="Utilities" t="Include">
+            <e p="CanvasCameraLoader.cs" t="Include" />
+            <e p="Crossfade.cs" t="Include" />
+            <e p="OldTorchScript" t="Include">
+              <e p="FlickLight.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SerializableDictionary" t="Include">
+          <e p="Editor" t="Include">
+            <e p="SerializableDictionaryPropertyDrawer.cs" t="Include" />
+          </e>
+          <e p="Example" t="Include">
+            <e p="Editor" t="Include">
+              <e p="UserSerializableDictionaryPropertyDrawers.cs" t="Include" />
+            </e>
+            <e p="SerializableDictionaryExample.cs" t="Include" />
+            <e p="UserSerializableDictionaries.cs" t="Include" />
+          </e>
+          <e p="SerializableDictionary.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="LightOfDaedalus.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

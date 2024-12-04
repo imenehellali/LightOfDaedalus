@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: b292447d6d696f340b653eab2b1ee070
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PolygonMat
+    second: {fileID: 2100000, guid: 56f4623cebea85c41b1a03d200926751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TorusMat
+    second: {fileID: 2100000, guid: f54bfe8d9872c604abdb474d836214e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus_1Mat
+    second: {fileID: 2100000, guid: 2c0ec6ee540660b47bbc275775f3f58c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon10Mat
+    second: {fileID: 2100000, guid: 0a785f1da35aae641bf7ffbd9236d08d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon1Mat
+    second: {fileID: 2100000, guid: 4558a6fb2b1c61147be3ae0d0733d602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon2Mat
+    second: {fileID: 2100000, guid: 095ce45577fde4e4eb511c1a8a508cf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon3Mat
+    second: {fileID: 2100000, guid: 5a62f96b55797cf4e9326ea9965e8ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon4Mat
+    second: {fileID: 2100000, guid: d095d413cafffcb42a782526ec5c943c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon5Mat
+    second: {fileID: 2100000, guid: f56baf265ebfada41ac0623837394f23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon6Mat
+    second: {fileID: 2100000, guid: 28c14d1c6fa69594e9c7583bd2529dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon7Mat
+    second: {fileID: 2100000, guid: 58e1045114f1ec4419c0ba94c6eb06f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon8Mat
+    second: {fileID: 2100000, guid: 33f7956b9a84e414e999a508c656299a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basll_Polygon9Mat
+    second: {fileID: 2100000, guid: e28d4ea9446f7984886d4a938856cc45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon11Mat
+    second: {fileID: 2100000, guid: daddc4bc895079343ae9e75357c6971c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon12Mat
+    second: {fileID: 2100000, guid: db4fe465e1ce81d45b00444dafd5cc6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon13Mat
+    second: {fileID: 2100000, guid: c3399bbf4dac0124685b779ee938eb15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon14Mat
+    second: {fileID: 2100000, guid: fda24db4040e4fb4cb2759fc2b09dca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon15Mat
+    second: {fileID: 2100000, guid: 93eab60e161cbc24b935a5fb6a9fa132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon16Mat
+    second: {fileID: 2100000, guid: 8d30a4699f2b47c42bf64868240a9e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon17Mat
+    second: {fileID: 2100000, guid: b85c139c582ac764cb2667852212750c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon18Mat
+    second: {fileID: 2100000, guid: 8ff2d29fa00b5b748a5fc1c8cae6d5a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon19Mat
+    second: {fileID: 2100000, guid: 43f8e644ff3a27941a162ca3a4a2fdb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon20Mat
+    second: {fileID: 2100000, guid: 6613eb3a46c78e24f9643d423d20a678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon21Mat
+    second: {fileID: 2100000, guid: 56b2538230f7ade4baab816082f728db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon22Mat
+    second: {fileID: 2100000, guid: 7e0cc546975cd9e4ea7a566d08588658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon23Mat
+    second: {fileID: 2100000, guid: 271d608bc28a50d419e86fc32f76d3cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuff_Polygon24Mat
+    second: {fileID: 2100000, guid: 3c0604f1fada9d040a607642c9797960, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
